@@ -1,6 +1,3 @@
-Claro, aquí tienes el archivo Markdown adaptado a un discurso en primera persona plural, para que puedas incluirte junto con tus alumnos en la explicación.
-
-
 # APIs y AJAX
 
 ## ¿Qué es una API?
